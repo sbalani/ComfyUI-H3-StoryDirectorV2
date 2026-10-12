@@ -1,5 +1,5 @@
 av==18.1.0
 transformers==5.19.0
-huggingface-hub>=0.34,<2
+huggingface-hub==2.2.0
 safetensors>=0.4.3
 pillow>=10
