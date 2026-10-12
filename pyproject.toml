@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-h3-storydirectorv2"
+version = "2.1.1"
+description = "Endangered AI H3 workflow tools"
+requires-python = ">=3.10"
+[project.urls]
+Repository = "https://github.com/sbalani/ComfyUI-H3-StoryDirectorV2"
+Patreon = "https://www.patreon.com/endangeredai"
+YouTube = "https://www.youtube.com/@endangeredai"
